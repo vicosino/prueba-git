@@ -22,3 +22,15 @@ git init
 '''
 git remote add origin https://github.com/vicosino/prueba-git.git
 '''
+------------------------------------
+
+''''''
+git add .
+git commit -m "comandos iniciales de GIT"
+git push origin master
+'''
+
+----------------
+'''
+git pull origin master
+'''
